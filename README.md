@@ -4,4 +4,4 @@ Olá, meu nome é Anderson! desenvolvi este projeto que faz parte do curso de Ja
 
 ## Sobre o projeto
 
-O sistema recebe dois parâmetros via terminal que representarão dois números inteiros, com estes dois números é obitido a quantidade de interações (for) e é realizado a impressão no console (System.out.print) dos números incrementados.
+Basicamente o projeto simula uma conta bancaria, requisitando os dados do usuário e, posteriormente, mostrando esses dados no terminal.
